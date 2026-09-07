@@ -1,0 +1,18 @@
+# Fichiers sensibles
+*.pem
+*.key
+*.crt
+*.env
+config.ini
+
+# Logs
+*.log
+
+# Fichiers temporaires
+*.tmp
+*.swp
+.DS_Store
+
+# Dossiers d'IDE
+.idea/
+.vscode/
